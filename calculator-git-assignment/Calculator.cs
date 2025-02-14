@@ -5,6 +5,7 @@
         public void Add(double a, double b)
         {
             Console.WriteLine(a + b);
+            Console.WriteLine("Something");
         }
 
         public void Subtract(double a, double b)
